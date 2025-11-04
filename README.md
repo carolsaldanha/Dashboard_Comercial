@@ -1,7 +1,7 @@
 # 📈 Dashboard Comercial de Performance de Vendas
 
 ## 🖼️ Preview do Dashboard
-![Preview do Dashboard Comercial](assets/image_5893d8.jpg)
+![Preview do Dashboard Comercial](assets/Captura%20de%20tela%202025-11-03%20221554.png)
 
 ---
 
